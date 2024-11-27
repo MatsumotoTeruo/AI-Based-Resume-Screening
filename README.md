@@ -12,3 +12,4 @@ Automated resume screening: AI Resume Screening saves time and effort by automat
 Improved accuracy: The tool uses advanced algorithms to analyze resumes, reducing the likelihood of human bias and improving the accuracy of the shortlisting process. We have achieved 73 percent accuracy. 
 
 # Usage
+Final_Project.ipynb: It is the jupyter notebook which we used to train the final model on all algorithms. It also contains the accuracies of each algorithm we have used. I used the DistilBert model from Hugging Face to train the data.
